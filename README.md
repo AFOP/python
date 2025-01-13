@@ -29,6 +29,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [Your Email Address].
+If you have any questions or suggestions, feel free to contact me at [4592@holbertonstudents.com].
 
 Happy coding!
